@@ -1,0 +1,14 @@
+name: RandomHotbar
+version: '1.0'
+main: me.apesander.main.Main
+api-version: 1.19
+prefix: RandomHotbar
+authors: [ ApeSander ]
+description: This plugin switches to a random hotbar slot if you place a block. A very useful tool for building!
+commands:
+  randomize:
+    usage: /randomize
+    aliases:
+      - random
+      - rb
+    description: randomize your hotbar
